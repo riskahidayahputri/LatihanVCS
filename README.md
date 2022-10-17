@@ -40,8 +40,8 @@ KELAS : TI.22.B1
   12. Kembali ke Git Bash, lalu ketik perintah "git remmote add origin(URL)" dan ketik perintah "Git push -u origin master" untuk menambahkan remote repository yang akan digunakan untuk menyimpan setiap perubahan pada lokal repository agar bisa diakses oleh user lain.
 <img width="960" alt="4 (5)" src="https://user-images.githubusercontent.com/115815582/196084319-26d0c136-fb34-431d-b2fb-49cb68547557.png">
 
-  13. Dan yang terakhir,untuk menyalin Repository server gunakan perintah "git clone (URL)"
-  14. <img width="960" alt="4 (6)" src="https://user-images.githubusercontent.com/115815582/196084813-0b22b237-0191-4add-965c-239137cb9411.png">
+  13. Dan yang terakhir,untuk menyalin Repository server gunakan perintah "git clone (URL)" 
+ <img width="960" alt="4 (6)" src="https://user-images.githubusercontent.com/115815582/196084813-0b22b237-0191-4add-965c-239137cb9411.png">
 
 Seperti itulah langkah-langkah dalam mambuat GIT dan github, mohon maaf bila ada kesalahan.
 
