@@ -32,7 +32,7 @@ KELAS : TI.22.B1
 <img width="960" alt="bahasa pemrograman 2" src="https://user-images.githubusercontent.com/115815582/196081613-47defaa6-48b2-4d3a-ad5c-d568a3ca7a5e.png">
 
   10. Setelah membuat Repository yang baru nanti akan muncul url yang akan digunakan untuk menambahkan remote Repository
-  <img width="960" alt="bahasa pemrograman 3" src="https://user-images.githubusKembali ke Git Bash, lalu ketik perintah "git remmote add origin(URL) untuk menambahkan remote repository, yang akan digunakan untuk menyimpan setiap perubahan pada lokal repository agar bisa diakses oleh user lain.ercontent.com/115815582/196082210-80a46fcf-9301-410d-ad98-73a8b50500d4.png">
+  <img width="960" alt="bahasa pemrograman 3" src="https://user-images.githubusercontent.com/115815582/196082210-80a46fcf-9301-410d-ad98-73a8b50500d4.png">
 
   11. kemudian kita masuk ke cmd lalu lakukan konfigurasi dengan memasukkan username dan email yang sudah kita daftarkan di akun Github
   <img width="960" alt="4 (4)" src="https://user-images.githubusercontent.com/115815582/196082818-cf6cdbe7-b9f1-4164-957b-4d3b1b73820b.png">
