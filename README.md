@@ -19,7 +19,22 @@ KELAS : TI.22.B1
   5. setelah masuk ke Git Bash Here, Buat direktori dengan perintah "mkdir latihan1" dan gunakan perintah "cd latihan1" untuk masuk ke direktorinya, lalu perintah "git init" membuat repository lokal.
 <img width="960" alt="4 (1)" src="https://user-images.githubusercontent.com/115815582/196044461-56f465da-a944-49c6-8407-65530cc5ec46.png">
 
-Buat file README.md menggunakan perintah "echo" atau bisa menggunakan perintah "git add(namefile)". setelah berhasil akan muncul tulisan "Lenovo 12 oct 16 20:48 README.md
+  6. Buat file README.md menggunakan perintah "echo" atau bisa menggunakan perintah "git add(namefile)". setelah berhasil akan muncul tulisan "Lenovo 12 oct 16 20:48 README.md
 <img width="960" alt="4 (2)" src="https://user-images.githubusercontent.com/115815582/196047017-7c24ac71-1642-477a-af3b-f57426af9965.png">
 
-cara melihat file kita sudah
+  7. Jika ingin mengedit file di README.md nya bisa menggunakan perintah "Git commit -m (nama file)"
+  <img width="960" alt="4 (3)" src="https://user-images.githubusercontent.com/115815582/196080020-388352a2-7603-4c6a-8e9f-779adc071557.png">
+
+  8. Buatlah akun Github. Kemudian buat repository baru dengan mengisi nama repository di "Start a new repository" atau klik ikon (+) lalu pilih new repository.
+  <img width="960" alt="bahasa pemrograman 1" src="https://user-images.githubusercontent.com/115815582/196081434-d7b809f3-b910-4a01-8209-edefc09a8cbd.png">
+
+  9. Buat nama Repository nya lalu klik Create Repository
+<img width="960" alt="bahasa pemrograman 2" src="https://user-images.githubusercontent.com/115815582/196081613-47defaa6-48b2-4d3a-ad5c-d568a3ca7a5e.png">
+
+  10. Setelah membuat Repository yang baru nanti akan muncul url yang akan digunakan untuk menambahkan remote Repository
+  <img width="960" alt="bahasa pemrograman 3" src="https://user-images.githubusKembali ke Git Bash, lalu ketik perintah "git remmote add origin(URL) untuk menambahkan remote repository, yang akan digunakan untuk menyimpan setiap perubahan pada lokal repository agar bisa diakses oleh user lain.ercontent.com/115815582/196082210-80a46fcf-9301-410d-ad98-73a8b50500d4.png">
+
+  11. kemudian kita masuk ke cmd lalu lakukan konfigurasi dengan memasukkan username dan email yang sudah kita daftarkan di akun Github
+  <img width="960" alt="4 (4)" src="https://user-images.githubusercontent.com/115815582/196082818-cf6cdbe7-b9f1-4164-957b-4d3b1b73820b.png">
+
+  12. Kembali ke Git Bash, lalu ketik perintah "git remmote add origin(URL) untuk menambahkan remote repository, yang akan digunakan untuk menyimpan setiap perubahan pada lokal repository agar bisa diakses oleh user lain.
